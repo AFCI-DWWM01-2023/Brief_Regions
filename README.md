@@ -1,5 +1,5 @@
 # Carte interactive des régions de France
-Vous devez faire une carte interactive, pour faire apparaitre les régions de France
+Vous devez faire une carte interactive, pour faire apparaitre les régions de France<br/>
 [Énoncé format PDF.](profile/pdf/CarteDesRegionsDeFrance.pdf)
 Les consignes :
 1. Chaque région à une couleur au survol
