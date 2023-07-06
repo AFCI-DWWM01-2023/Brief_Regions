@@ -17,3 +17,9 @@ Autoriser :<br/>
 
 Vous devez dans premier temps commencer par changer la couleur de la carte
 ![Image initiale](profile/img/16.jpg)&nbsp;&nbsp;
+
+Après modification de l'image :
+![Image modififié](profile/img/17.jpg)&nbsp;&nbsp;
+
+Résultat attendu :
+![ResultatAttendu](profile/img/18.jpg)&nbsp;&nbsp;
